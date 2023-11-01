@@ -1,0 +1,16 @@
+{
+  "name": "curso-backstopjs-tat",
+  "version": "1.0.0",
+  "description": "Projeto para o curso de BackstopJS da Escola TAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "backstop test",
+    "approve": "backstop approve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "backstopjs": "^6.2.2"
+  }
+}
