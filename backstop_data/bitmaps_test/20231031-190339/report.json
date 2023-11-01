@@ -1,0 +1,22 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Initial_State_0_document_0_tablet.png",
+        "test": "../bitmaps_test/20231031-190339/backstop_default_Initial_State_0_document_0_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Initial_State_0_document_0_tablet.png",
+        "label": "Initial State",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "error": "Reference file not found /home/lourena/curso-backstopjs-tat/backstop_data/bitmaps_reference/backstop_default_Initial_State_0_document_0_tablet.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}

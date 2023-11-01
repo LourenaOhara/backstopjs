@@ -1,0 +1,114 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Initial_State_0_document_0_tablet.png",
+        "test": "../bitmaps_test/20231101-101847/backstop_default_Initial_State_0_document_0_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Initial_State_0_document_0_tablet.png",
+        "label": "Initial State",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Check_VIP_0_document_0_tablet.png",
+        "test": "../bitmaps_test/20231101-101847/backstop_default_Check_VIP_0_document_0_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Check_VIP_0_document_0_tablet.png",
+        "label": "Check VIP",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Checkboxes_0_document_0_tablet.png",
+        "test": "../bitmaps_test/20231101-101847/backstop_default_Checkboxes_0_document_0_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Checkboxes_0_document_0_tablet.png",
+        "label": "Checkboxes",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Selects_two_tickets_0_document_0_tablet.png",
+        "test": "../bitmaps_test/20231101-101847/backstop_default_Selects_two_tickets_0_document_0_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Selects_two_tickets_0_document_0_tablet.png",
+        "label": "Selects two tickets",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_Invalid_Email_0_document_0_tablet.png",
+        "test": "../bitmaps_test/20231101-101847/backstop_default_Invalid_Email_0_document_0_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_Invalid_Email_0_document_0_tablet.png",
+        "label": "Invalid Email",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0,
+        "url": "https://ticketbox-backstopjs-tat.s3.eu-central-1.amazonaws.com/index.html",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "error": "Reference file not found /home/lourena/curso-backstopjs-tat/backstop_data/bitmaps_reference/backstop_default_Invalid_Email_0_document_0_tablet.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}
